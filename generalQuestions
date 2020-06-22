@@ -2,4 +2,9 @@
 
 Ans: which AppicationName (example: which java)
 
-=========
+========
+
+2. How to check git and java versions in git?
+
+Ans:	1. git version
+	2. java -version
